@@ -2,8 +2,7 @@
 
 
 
-<p align="center">
-  <img alt="IMG" src="https://res.cloudinary.com/fontinelle/image/upload/v1608220928/GitHub/Chal%C3%A9_Hotel_ybu6zo.png">
+<img alt="IMG" src="https://res.cloudinary.com/fontinelle/image/upload/v1608220928/GitHub/Chal%C3%A9_Hotel_ybu6zo.png">
 
 
 
